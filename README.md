@@ -1,6 +1,6 @@
 # Covarius-takehome
-
-Setting up the app:
+**
+Setting up the app:**
 
 1. Clone the repository.
 2. Pip installer to install new modules.
